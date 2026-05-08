@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Databricks
+.dbx/
+
+# Spark
+spark-warehouse/
+
+# Mac/Linux
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Data files
+*.parquet
+*.delta
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
