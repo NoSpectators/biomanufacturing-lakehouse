@@ -22,6 +22,7 @@ spark-warehouse/
 # Data files
 *.parquet
 *.delta
+data/
 
 # Jupyter
 .ipynb_checkpoints/
